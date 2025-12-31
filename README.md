@@ -108,6 +108,6 @@ $db   = 'web_lapmung'; // Sesuaikan nama DB Anda
 <br>
 
 <div align="center">
-  <hr>
-  <small>Dikembangkan oleh <b>Arya Putra Pratama Ansori</b> | © 2025</small>
+<hr>
+<small>Dikembangkan oleh <b>Arya Putra Pratama Ansori</b> | © 2025</small>
 </div>
