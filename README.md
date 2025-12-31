@@ -105,9 +105,4 @@ $db   = 'web_lapmung'; // Sesuaikan nama DB Anda
 ?>
 5. Akses Website Buka browser dan kunjungi: http://localhost/pesona_lampung
 
-<br>
-
-<div align="center">
-<hr>
-<small>Dikembangkan oleh <b>Arya Putra Pratama Ansori</b> | © 2025</small>
-</div>
+<div align="center"><hr><small>Dikembangkan oleh <b>Arya Putra Pratama Ansori</b> | © 2025</small></div>
